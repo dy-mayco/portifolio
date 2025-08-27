@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
 <<<<<<< HEAD
 
 :root {
@@ -40,4 +41,8 @@
     --cor-azulescuro: #7890cb;
     --cor-branco: #ffffff;
     --cor-preto: #000000;
+}
+
+.habilidades {
+    text-decoration: none;
 }
